@@ -1,0 +1,8 @@
+{
+    "title": "Genome Similarity Application",
+    "description": "The Bioinformatics Genome Similarity application, developed in C++, analyzes amino acid sequences in genomes using frequency vectors for correlation scoring, featuring optimizations for memory usage and computational efficiency, and leverages parallel computing for enhanced performance.",
+    "type": "Assignment",
+    "photo": "https://t4.ftcdn.net/jpg/04/72/07/17/360_F_472071764_a0evagcR3pZU1VvNTZT9UuWxZunu9M9L.jpg",
+    "tags": "C++, Parallel, Data Structures",
+    "related_projects": ""
+}
