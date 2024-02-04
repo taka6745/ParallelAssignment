@@ -87,6 +87,7 @@ This repository includes three versions of a bacteria sequence comparison progra
 - Command: `/opt/homebrew/opt/llvm/bin/clang++ -Xpreprocessor -fopenmp -O3 -march=native -funroll-loops <filename>.cpp -o <outputname> -I/opt/homebrew/opt/llvm/include -L/opt/homebrew/opt/llvm/lib -lomp`
 - Set OpenMP threads: `export OMP_NUM_THREADS=8`
 
+
 ## Required Header Files and Libraries
 
 Includes standard C/C++ libraries such as `stdio.h`, `stdlib.h`, `string.h`, `time.h`, `math.h`, `vector`, `omp.h`, and `memory`.
